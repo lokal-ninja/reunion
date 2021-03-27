@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/reunion"
+languageCode = "fr"
+title = "Reunion"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "reunion"
+
+[taxonomies]
+  shop = "shops"
