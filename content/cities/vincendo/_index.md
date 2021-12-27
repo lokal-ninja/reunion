@@ -1,6 +1,6 @@
 ---
 title: Vincendo
 url: /vincendo/
-latitude: 
-longitude: 
+latitude: -21.375
+longitude: 55.667
 ---

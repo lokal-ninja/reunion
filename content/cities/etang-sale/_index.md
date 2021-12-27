@@ -1,6 +1,6 @@
 ---
 title: Etang Sale
 url: /etang-sale/
-latitude: 
-longitude: 
+latitude: -21.269
+longitude: 55.338
 ---

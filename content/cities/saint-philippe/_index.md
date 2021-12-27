@@ -1,6 +1,6 @@
 ---
 title: Saint-Philippe
 url: /saint-philippe/
-latitude: 
-longitude: 
+latitude: -21.361
+longitude: 55.762
 ---

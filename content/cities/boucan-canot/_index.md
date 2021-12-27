@@ -1,6 +1,6 @@
 ---
 title: Boucan-Canot
 url: /boucan-canot/
-latitude: -21.0309795
-longitude: 55.2265631
+latitude: -21.03
+longitude: 55.228
 ---

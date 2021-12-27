@@ -1,6 +1,6 @@
 ---
 title: La Rivière
 url: /la-riviere/
-latitude: 
-longitude: 
+latitude: -21.266
+longitude: 55.439
 ---

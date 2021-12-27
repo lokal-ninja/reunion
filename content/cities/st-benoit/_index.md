@@ -1,6 +1,6 @@
 ---
 title: ST BENOIT
 url: /st-benoit/
-latitude: 
-longitude: 
+latitude: -21.034
+longitude: 55.713
 ---

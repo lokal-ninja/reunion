@@ -1,6 +1,6 @@
 ---
 title: Saint-Pierre
 url: /saint-pierre/
-latitude: 
-longitude: 
+latitude: -21.311
+longitude: 55.453
 ---

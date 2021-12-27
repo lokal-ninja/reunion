@@ -1,6 +1,6 @@
 ---
 title: Trois Bassins
 url: /trois-bassins/
-latitude: 
-longitude: 
+latitude: -21.106
+longitude: 55.301
 ---

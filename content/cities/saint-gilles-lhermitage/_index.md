@@ -1,6 +1,6 @@
 ---
 title: Saint-Gilles l'Hermitage
 url: /saint-gilles-lhermitage/
-latitude: 
-longitude: 
+latitude: -21.074
+longitude: 55.223
 ---

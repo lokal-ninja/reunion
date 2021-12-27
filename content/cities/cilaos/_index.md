@@ -1,6 +1,6 @@
 ---
 title: CILAOS
 url: /cilaos/
-latitude: 
-longitude: 
+latitude: -21.135
+longitude: 55.471
 ---

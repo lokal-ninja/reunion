@@ -1,6 +1,6 @@
 ---
 title: Ravine des Cabris
 url: /ravine-des-cabris/
-latitude: 
-longitude: 
+latitude: -21.303
+longitude: 55.494
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Louis
 url: /saint-louis/
-latitude: -21.2840124
-longitude: 55.4135962
+latitude: -21.291
+longitude: 55.4
 ---
