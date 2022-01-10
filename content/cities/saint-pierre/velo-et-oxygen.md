@@ -1,5 +1,5 @@
 ---
 title: "Vélo & Oxygen"
-url: /saint-pierre/velo-and-oxygen/
+url: /saint-pierre/velo-et-oxygen/
 shop: vélo
 ---
