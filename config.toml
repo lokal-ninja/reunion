@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/reunion"
+baseURL = "https://fr.shoogle.net/reunion/"
 languageCode = "fr"
 title = "Reunion"
 theme = "ln-base"
