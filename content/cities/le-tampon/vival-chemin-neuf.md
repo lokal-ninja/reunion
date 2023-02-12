@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /le-tampon/vival-2/
+url: /le-tampon/vival/
 shop: commodité
 ---

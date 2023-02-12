@@ -1,5 +1,5 @@
 ---
 title: "Led design"
-url: /saint-pierre/led-design-2/
+url: /saint-pierre/led-design/
 shop: décoration intérieure
 ---
