@@ -1,6 +1,6 @@
 ---
 title: L'Étang-Salé
 url: /letang-sale/
-latitude: -21.264
-longitude: 55.364
+latitude: -21.262
+longitude: 55.36
 ---
