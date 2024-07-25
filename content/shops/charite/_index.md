@@ -1,5 +1,5 @@
 ---
 title: charité
 url: /charite/
-icon: charity
+icon: second_hand
 ---
