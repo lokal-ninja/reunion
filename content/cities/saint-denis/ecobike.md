@@ -1,5 +1,5 @@
 ---
 title: "Ecobike"
 url: /saint-denis/ecobike/
-shop: vélo
+shop: Fahrrad
 ---

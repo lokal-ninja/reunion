@@ -1,5 +1,5 @@
 ---
 title: "Piscinadom"
 url: /letang-sale/piscinadom/
-shop: piscine
+shop: Pool
 ---

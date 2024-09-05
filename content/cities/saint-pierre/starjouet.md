@@ -1,5 +1,5 @@
 ---
 title: "Starjouet"
 url: /saint-pierre/starjouet/
-shop: jouets
+shop: Spielzeug
 ---

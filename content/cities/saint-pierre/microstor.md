@@ -1,5 +1,5 @@
 ---
 title: "Microstor"
 url: /saint-pierre/microstor/
-shop: ordinateur
+shop: Computer
 ---

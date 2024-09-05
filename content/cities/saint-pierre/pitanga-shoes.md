@@ -1,5 +1,5 @@
 ---
 title: "Pitanga Shoes"
 url: /saint-pierre/pitanga-shoes/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biodiet"
 url: /saint-pierre/biodiet/
-shop: supermarché
+shop: Supermarkt
 ---

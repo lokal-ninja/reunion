@@ -1,5 +1,5 @@
 ---
 title: "Ishop"
 url: /saint-pierre/ishop/
-shop: ordinateur
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FNAC Epicéa"
 url: /saint-pierre/fnac-epicea/
-shop: livres
+shop: Bücher
 ---
