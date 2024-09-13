@@ -1,5 +1,5 @@
 ---
 title: "Jade'hair"
 url: /saint-pierre/jadehair/
-shop: Friseur
+shop: coiffeur
 ---

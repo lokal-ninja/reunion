@@ -1,5 +1,5 @@
 ---
 title: "SICALAIT"
 url: /le-tampon/sicalait/
-shop: Garten-Center
+shop: centre de jardinage
 ---

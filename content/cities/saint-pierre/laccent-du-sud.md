@@ -1,5 +1,5 @@
 ---
 title: "L'Accent du Sud"
 url: /saint-pierre/laccent-du-sud/
-shop: Bücher
+shop: livres
 ---

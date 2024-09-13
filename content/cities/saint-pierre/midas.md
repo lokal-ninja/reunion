@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /saint-pierre/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

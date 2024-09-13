@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /saint-pierre/orange/
-shop: Handy
+shop: téléphone portable
 ---

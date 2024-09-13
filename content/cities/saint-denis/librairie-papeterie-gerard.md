@@ -1,5 +1,5 @@
 ---
 title: "Librairie Papeterie Gérard"
 url: /saint-denis/librairie-papeterie-gerard/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fixations Service"
 url: /saint-pierre/fixations-service/
-shop: Baumarkt
+shop: à faire soi-même
 ---

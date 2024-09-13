@@ -1,5 +1,5 @@
 ---
 title: "La Frégate"
 url: /saint-denis/la-fregate/
-shop: Lebensmittel
+shop: commodité
 ---

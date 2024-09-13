@@ -1,5 +1,5 @@
 ---
 title: "Camara"
 url: /saint-denis/camara/
-shop: Kamera
+shop: caméra
 ---

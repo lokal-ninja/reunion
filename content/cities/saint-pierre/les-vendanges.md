@@ -1,5 +1,5 @@
 ---
 title: "Les Vendanges"
 url: /saint-pierre/les-vendanges/
-shop: Spirituosen
+shop: alcool
 ---

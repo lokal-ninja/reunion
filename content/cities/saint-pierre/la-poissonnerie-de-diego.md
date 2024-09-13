@@ -1,5 +1,5 @@
 ---
 title: "La poissonnerie de diego"
 url: /saint-pierre/la-poissonnerie-de-diego/
-shop: Fisch
+shop: fruits de mer
 ---

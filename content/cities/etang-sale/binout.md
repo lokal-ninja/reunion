@@ -1,5 +1,5 @@
 ---
 title: "BINOUT"
 url: /etang-sale/binout/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

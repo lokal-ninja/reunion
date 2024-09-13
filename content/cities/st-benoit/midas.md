@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /st-benoit/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

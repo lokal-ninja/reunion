@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /la-riviere-saint-louis/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

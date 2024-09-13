@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /saint-denis/celio/
-shop: Kleidung
+shop: vêtements
 ---

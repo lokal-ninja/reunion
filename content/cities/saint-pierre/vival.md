@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /saint-pierre/vival/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coco Cannelle"
 url: /le-tampon/coco-cannelle/
-shop: Bäckerei
+shop: boulangerie
 ---

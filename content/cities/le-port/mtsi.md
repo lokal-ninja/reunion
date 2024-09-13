@@ -1,5 +1,5 @@
 ---
 title: "MTSI"
 url: /le-port/mtsi/
-shop: Computer
+shop: ordinateur
 ---

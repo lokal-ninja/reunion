@@ -1,5 +1,5 @@
 ---
 title: "Dodo Musique"
 url: /saint-pierre/dodo-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

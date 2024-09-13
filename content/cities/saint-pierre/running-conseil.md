@@ -1,5 +1,5 @@
 ---
 title: "Running Conseil"
 url: /saint-pierre/running-conseil/
-shop: Sport
+shop: sports
 ---

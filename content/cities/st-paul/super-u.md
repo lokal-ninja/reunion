@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /st-paul/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

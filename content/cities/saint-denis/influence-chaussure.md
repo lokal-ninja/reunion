@@ -1,5 +1,5 @@
 ---
 title: "Influence Chaussure"
 url: /saint-denis/influence-chaussure/
-shop: Schuhe
+shop: chaussures
 ---

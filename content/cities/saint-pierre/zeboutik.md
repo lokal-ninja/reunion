@@ -1,5 +1,5 @@
 ---
 title: "Zeboutik"
 url: /saint-pierre/zeboutik/
-shop: Handy
+shop: téléphone portable
 ---

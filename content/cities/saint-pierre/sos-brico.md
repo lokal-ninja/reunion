@@ -1,5 +1,5 @@
 ---
 title: "Sos brico"
 url: /saint-pierre/sos-brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

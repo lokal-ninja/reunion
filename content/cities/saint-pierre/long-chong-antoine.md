@@ -1,5 +1,5 @@
 ---
 title: "Long chong antoine"
 url: /saint-pierre/long-chong-antoine/
-shop: Allgemein
+shop: shop
 ---

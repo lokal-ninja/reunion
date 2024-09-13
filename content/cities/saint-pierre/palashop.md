@@ -1,5 +1,5 @@
 ---
 title: "Palashop"
 url: /saint-pierre/palashop/
-shop: Andenken
+shop: cadeau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie L'Otentik"
 url: /le-tampon/boulangerie-lotentik/
-shop: Bäckerei
+shop: boulangerie
 ---

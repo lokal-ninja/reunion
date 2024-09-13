@@ -1,5 +1,5 @@
 ---
 title: "Score"
 url: /st-benoit/score/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /saint-denis/interflora/
-shop: Blumen
+shop: fleuriste
 ---

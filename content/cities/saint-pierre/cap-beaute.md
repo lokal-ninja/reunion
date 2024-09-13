@@ -1,5 +1,5 @@
 ---
 title: "Cap beauté"
 url: /saint-pierre/cap-beaute/
-shop: Kosmetik
+shop: beauté
 ---

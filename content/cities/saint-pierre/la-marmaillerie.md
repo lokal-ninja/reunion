@@ -1,5 +1,5 @@
 ---
 title: "La Marmaillerie"
 url: /saint-pierre/la-marmaillerie/
-shop: Spielzeug
+shop: jouets
 ---

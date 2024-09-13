@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /le-tampon/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

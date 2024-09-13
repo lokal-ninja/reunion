@@ -1,5 +1,5 @@
 ---
 title: "Imprimerie CGSS"
 url: /sainte-marie/imprimerie-cgss/
-shop: Kopieren
+shop: copyshop
 ---

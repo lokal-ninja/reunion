@@ -1,5 +1,5 @@
 ---
 title: "SPMOI"
 url: /saint-paul/spmoi/
-shop: Baumarkt
+shop: à faire soi-même
 ---

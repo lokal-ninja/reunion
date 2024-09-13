@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /saint-benoit/sfr/
-shop: Handy
+shop: téléphone portable
 ---

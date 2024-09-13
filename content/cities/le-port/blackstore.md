@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /le-port/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

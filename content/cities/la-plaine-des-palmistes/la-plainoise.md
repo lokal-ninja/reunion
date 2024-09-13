@@ -1,5 +1,5 @@
 ---
 title: "La Plainoise"
 url: /la-plaine-des-palmistes/la-plainoise/
-shop: Bäckerei
+shop: boulangerie
 ---

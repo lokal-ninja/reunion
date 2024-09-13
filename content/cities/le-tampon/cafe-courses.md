@@ -1,5 +1,5 @@
 ---
 title: "Café Courses"
 url: /le-tampon/cafe-courses/
-shop: Wäscherei
+shop: blanchisserie
 ---

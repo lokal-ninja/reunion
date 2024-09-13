@@ -1,5 +1,5 @@
 ---
 title: "Accu Run"
 url: /saint-pierre/accu-run/
-shop: Elektrisch
+shop: électrique
 ---

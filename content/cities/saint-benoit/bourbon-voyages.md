@@ -1,5 +1,5 @@
 ---
 title: "Bourbon Voyages"
 url: /saint-benoit/bourbon-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

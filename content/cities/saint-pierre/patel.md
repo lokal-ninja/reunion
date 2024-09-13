@@ -1,5 +1,5 @@
 ---
 title: "Patel"
 url: /saint-pierre/patel/
-shop: Baumarkt
+shop: à faire soi-même
 ---

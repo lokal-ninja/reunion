@@ -1,5 +1,5 @@
 ---
 title: "Photocopies"
 url: /saint-pierre/photocopies/
-shop: Kopieren
+shop: copyshop
 ---
