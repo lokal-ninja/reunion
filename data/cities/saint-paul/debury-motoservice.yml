@@ -1,11 +1,11 @@
 id: 140234224
-type: way
+type: node
 latitude: -21.00411
 longitude: 55.27828
 postcode: "97460"
 city: Saint Paul
-street: "Chaussée Royale"
-housenumber: 199
+street: Chaussée Royale
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

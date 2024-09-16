@@ -1,11 +1,11 @@
 id: 67320518
-type: way
+type: node
 latitude: -21.13175
 longitude: 55.62794
 postcode: "97431"
 city: La Plaine des Palmistes
-street: "Rue de l'Église"
-housenumber: 47
+street: Rue de l'Église
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

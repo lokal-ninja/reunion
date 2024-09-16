@@ -1,11 +1,11 @@
 id: 67629268
-type: way
+type: node
 latitude: -21.33423
 longitude: 55.46038
 postcode: "97410"
 city: Saint-Pierre
-street: "Avenue Luc Donat"
-housenumber: 100
+street: Avenue Luc Donat
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

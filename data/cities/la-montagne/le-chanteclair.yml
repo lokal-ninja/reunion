@@ -1,11 +1,11 @@
 id: 443193957
-type: way
+type: node
 latitude: -20.88891
 longitude: 55.42464
 postcode: "97417"
 city: LA MONTAGNE
-street: "Route des Palmiers"
-housenumber: 40
+street: Route des Palmiers
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

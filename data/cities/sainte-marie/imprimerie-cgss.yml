@@ -1,11 +1,11 @@
 id: 147447765
-type: way
+type: node
 latitude: -20.89738
 longitude: 55.56907
 postcode: "97438"
 city: Sainte-Marie
-street: "Rue du General de Gaulle"
-housenumber: 5
+street: Rue du General de Gaulle
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

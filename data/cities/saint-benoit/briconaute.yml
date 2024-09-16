@@ -1,11 +1,11 @@
 id: 279089148
-type: way
+type: node
 latitude: -21.04429
 longitude: 55.72213
 postcode: "97470"
 city: Saint-Benoît
-street: "Rue Françoise de Chatelain"
-housenumber: 3
+street: Rue Françoise de Chatelain
+housenumber: "3"
 phone: "0262508350"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-17:30; Sa 08:00-12:00, 13:30-17:00"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa 08:00-12:00, 13:30-17:00
 website: ""

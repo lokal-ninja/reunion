@@ -1,11 +1,11 @@
 id: 218581346
-type: way
+type: node
 latitude: -21.0348
 longitude: 55.70284
 postcode: "97470"
 city: St Benoît
-street: "Rue des Goyaves"
-housenumber: 18
-phone: "0262 40 90 90"
+street: Rue des Goyaves
+housenumber: "18"
+phone: 0262 40 90 90
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

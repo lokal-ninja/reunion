@@ -1,11 +1,11 @@
 id: 881835284
-type: way
+type: node
 latitude: -21.04239
 longitude: 55.26606
 postcode: "97435"
 city: St Paul
-street: "Rue d'Eden"
-housenumber: 25
+street: Rue d'Eden
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.magasins-u.com/magasin/superu-saintgillesleshauts"
+website: https://www.magasins-u.com/magasin/superu-saintgillesleshauts

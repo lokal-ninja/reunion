@@ -1,11 +1,11 @@
 id: 147338396
-type: way
+type: node
 latitude: -20.89212
 longitude: 55.49523
 postcode: "97490"
 city: Sainte-Clotilde
-street: "Rue Jules Hermann"
-housenumber: 8
-phone: "+262 29 29 91"
+street: Rue Jules Hermann
+housenumber: "8"
+phone: +262 29 29 91
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/
