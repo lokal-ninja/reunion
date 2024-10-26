@@ -1,5 +1,5 @@
 ---
 title: fruits de mer
 url: /fruits-de-mer/
-icon: other
+icon: seafood
 ---
