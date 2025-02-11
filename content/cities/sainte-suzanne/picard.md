@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /saint-denis/picard/
+url: /sainte-suzanne/picard/
 shop: commodité
 ---
