@@ -1,5 +1,5 @@
 ---
 title: "Gamm vert"
-url: /saint-pierre/gamm-vert/
+url: /les-avirons/gamm-vert/
 shop: centre de jardinage
 ---
