@@ -1,6 +1,6 @@
 ---
 title: Sainte-Suzanne
 url: /sainte-suzanne/
-latitude: -20.926
-longitude: 55.63
+latitude: -20.907
+longitude: 55.608
 ---
