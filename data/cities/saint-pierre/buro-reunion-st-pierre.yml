@@ -7,5 +7,6 @@ city: Saint-Pierre
 street: Rue Marius Et Ary Leblond
 housenumber: "149"
 phone: ""
-opening_hours: Mo-Sa 08:30-18:30
+opening_hours: Mo 08:30-18:00; Tu 08:30-12:30, 13:30-18:00; We 08:30-18:30; Th 08:30-18:00;
+    Fr 08:30-12:30, 13:30-18:00; Sa 08:30-18:30
 website: ""
