@@ -1,5 +1,5 @@
 ---
 title: "S'center"
-url: /le-tampon/scenter/
+url: /saint-leu/scenter/
 shop: meubles
 ---
