@@ -1,6 +1,6 @@
 ---
 title: Sainte-Marie
 url: /sainte-marie/
-latitude: -20.898
-longitude: 55.534
+latitude: -20.9
+longitude: 55.518
 ---
