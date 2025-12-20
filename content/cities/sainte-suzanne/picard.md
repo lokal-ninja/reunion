@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /sainte-suzanne/picard/
-shop: commodité
+shop: aliments surgelés
 ---
