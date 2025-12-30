@@ -1,6 +1,6 @@
 ---
 title: Saint-Leu
 url: /saint-leu/
-latitude: -21.173
-longitude: 55.288
+latitude: -21.219
+longitude: 55.301
 ---
