@@ -1,6 +1,6 @@
 ---
 title: Sainte-Clotilde
 url: /sainte-clotilde/
-latitude: -20.918
-longitude: 55.475
+latitude: -20.906
+longitude: 55.482
 ---
