@@ -1,5 +1,5 @@
 ---
-title: "SO HYPE Studio"
+title: "So Hype Studio"
 url: /saint-denis/so-hype-studio/
-shop: boutique
+shop: vêtements
 ---
