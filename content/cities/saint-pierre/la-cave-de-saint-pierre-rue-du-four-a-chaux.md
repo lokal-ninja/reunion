@@ -1,5 +1,5 @@
 ---
-title: "La cave de Saint-Pierre"
+title: "La Cave de Saint-Pierre"
 url: /saint-pierre/la-cave-de-saint-pierre-rue-du-four-a-chaux/
 shop: alcool
 ---
