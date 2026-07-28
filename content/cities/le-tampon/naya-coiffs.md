@@ -1,5 +1,5 @@
 ---
-title: "NAYA COIFF'S"
+title: "Naya Coiff's"
 url: /le-tampon/naya-coiffs/
 shop: coiffeur
 ---
