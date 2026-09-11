@@ -1,5 +1,5 @@
 ---
 title: "Distri Club Médical"
-url: /saint-pierre/distri-club-medical/
+url: /saint-pierre-reunion/distri-club-medical/
 shop: approvisionnement médical
 ---

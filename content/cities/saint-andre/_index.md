@@ -1,6 +1,6 @@
 ---
 title: Saint-André
 url: /saint-andre/
-latitude: -20.944
-longitude: 55.648
+latitude: -20.962
+longitude: 55.659
 ---

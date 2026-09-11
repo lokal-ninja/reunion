@@ -1,6 +1,6 @@
 ---
 title: Le Port
 url: /le-port/
-latitude: -20.938
-longitude: 55.29
+latitude: -20.947
+longitude: 55.318
 ---
