@@ -7,5 +7,5 @@ city: Saint-Paul
 street: Rue de la Cheminée
 housenumber: "20"
 phone: ""
-opening_hours: Mo-Th 09:00-18:00; Fr-Sa 09:00-19:00
+opening_hours: Mo-Th,Sa 09:00-18:00; Fr 09:00-19:00
 website: https://salons.vog.fr/6007198837970/salon-coiffure-saint-paul-la-reunion
